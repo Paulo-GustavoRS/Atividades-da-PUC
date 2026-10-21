@@ -1,0 +1,14 @@
+C:\Users\1624799\Desktop\20-09(2)\obj\Debug\net9.0\20-09(2).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1624799\Desktop\20-09(2)\obj\Debug\net9.0\20-09(2).AssemblyInfoInputs.cache
+C:\Users\1624799\Desktop\20-09(2)\obj\Debug\net9.0\20-09(2).AssemblyInfo.cs
+C:\Users\1624799\Desktop\20-09(2)\obj\Debug\net9.0\20-09(2).csproj.CoreCompileInputs.cache
+C:\Users\1624799\Desktop\20-09(2)\bin\Debug\net9.0\20-09(2).exe
+C:\Users\1624799\Desktop\20-09(2)\bin\Debug\net9.0\20-09(2).deps.json
+C:\Users\1624799\Desktop\20-09(2)\bin\Debug\net9.0\20-09(2).runtimeconfig.json
+C:\Users\1624799\Desktop\20-09(2)\bin\Debug\net9.0\20-09(2).dll
+C:\Users\1624799\Desktop\20-09(2)\bin\Debug\net9.0\20-09(2).pdb
+C:\Users\1624799\Desktop\20-09(2)\obj\Debug\net9.0\20-09(2).dll
+C:\Users\1624799\Desktop\20-09(2)\obj\Debug\net9.0\refint\20-09(2).dll
+C:\Users\1624799\Desktop\20-09(2)\obj\Debug\net9.0\20-09(2).pdb
+C:\Users\1624799\Desktop\20-09(2)\obj\Debug\net9.0\20-09(2).genruntimeconfig.cache
+C:\Users\1624799\Desktop\20-09(2)\obj\Debug\net9.0\ref\20-09(2).dll
