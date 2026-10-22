@@ -1,0 +1,14 @@
+C:\Users\Paulo Gustavo\Desktop\0409\bin\Debug\net10.0\0409.exe
+C:\Users\Paulo Gustavo\Desktop\0409\bin\Debug\net10.0\0409.deps.json
+C:\Users\Paulo Gustavo\Desktop\0409\bin\Debug\net10.0\0409.runtimeconfig.json
+C:\Users\Paulo Gustavo\Desktop\0409\bin\Debug\net10.0\0409.dll
+C:\Users\Paulo Gustavo\Desktop\0409\bin\Debug\net10.0\0409.pdb
+C:\Users\Paulo Gustavo\Desktop\0409\obj\Debug\net10.0\0409.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo Gustavo\Desktop\0409\obj\Debug\net10.0\0409.AssemblyInfoInputs.cache
+C:\Users\Paulo Gustavo\Desktop\0409\obj\Debug\net10.0\0409.AssemblyInfo.cs
+C:\Users\Paulo Gustavo\Desktop\0409\obj\Debug\net10.0\0409.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Gustavo\Desktop\0409\obj\Debug\net10.0\0409.dll
+C:\Users\Paulo Gustavo\Desktop\0409\obj\Debug\net10.0\refint\0409.dll
+C:\Users\Paulo Gustavo\Desktop\0409\obj\Debug\net10.0\0409.pdb
+C:\Users\Paulo Gustavo\Desktop\0409\obj\Debug\net10.0\0409.genruntimeconfig.cache
+C:\Users\Paulo Gustavo\Desktop\0409\obj\Debug\net10.0\ref\0409.dll
