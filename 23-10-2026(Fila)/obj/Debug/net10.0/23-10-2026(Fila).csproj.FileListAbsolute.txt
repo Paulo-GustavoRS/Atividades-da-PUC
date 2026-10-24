@@ -1,0 +1,14 @@
+c:\Users\Paulo Gustavo\Desktop\23-10-2026(Fila)\bin\Debug\net10.0\23-10-2026(Fila).exe
+C:\Users\Paulo Gustavo\Desktop\23-10-2026(Fila)\bin\Debug\net10.0\23-10-2026(Fila).deps.json
+C:\Users\Paulo Gustavo\Desktop\23-10-2026(Fila)\bin\Debug\net10.0\23-10-2026(Fila).runtimeconfig.json
+c:\Users\Paulo Gustavo\Desktop\23-10-2026(Fila)\bin\Debug\net10.0\23-10-2026(Fila).dll
+c:\Users\Paulo Gustavo\Desktop\23-10-2026(Fila)\bin\Debug\net10.0\23-10-2026(Fila).pdb
+c:\Users\Paulo Gustavo\Desktop\23-10-2026(Fila)\obj\Debug\net10.0\23-10-2026(Fila).GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Paulo Gustavo\Desktop\23-10-2026(Fila)\obj\Debug\net10.0\23-10-2026(Fila).AssemblyInfoInputs.cache
+c:\Users\Paulo Gustavo\Desktop\23-10-2026(Fila)\obj\Debug\net10.0\23-10-2026(Fila).AssemblyInfo.cs
+c:\Users\Paulo Gustavo\Desktop\23-10-2026(Fila)\obj\Debug\net10.0\23-10-2026(Fila).csproj.CoreCompileInputs.cache
+c:\Users\Paulo Gustavo\Desktop\23-10-2026(Fila)\obj\Debug\net10.0\23-10-2026(Fila).dll
+c:\Users\Paulo Gustavo\Desktop\23-10-2026(Fila)\obj\Debug\net10.0\refint\23-10-2026(Fila).dll
+c:\Users\Paulo Gustavo\Desktop\23-10-2026(Fila)\obj\Debug\net10.0\23-10-2026(Fila).pdb
+C:\Users\Paulo Gustavo\Desktop\23-10-2026(Fila)\obj\Debug\net10.0\23-10-2026(Fila).genruntimeconfig.cache
+C:\Users\Paulo Gustavo\Desktop\23-10-2026(Fila)\obj\Debug\net10.0\ref\23-10-2026(Fila).dll
